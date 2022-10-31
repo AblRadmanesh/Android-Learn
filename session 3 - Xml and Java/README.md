@@ -14,5 +14,8 @@
 9 : نمایش خروجی 
 10 : تغییر اکتیویتی لانچر یا اصلی برنامه
 
+لینک آموزش مربوطه در یوتوب ما:
+https://youtu.be/CvOwKFCfynk
+
 لینک کانال یوتوب ما:
 https://www.youtube.com/channel/UCH3_JafL5v3Ox32DBc4B1ag
